@@ -1,6 +1,7 @@
 package tech.cryptoexplained.hash.aes;
 
-import com.sun.istack.internal.NotNull;
+// import com.sun.istack.internal.NotNull;
+import org.jetbrains.annotations.NotNull;
 import tech.cryptoexplained.hash.common.ByteUtils;
 import tech.cryptoexplained.hash.common.HashDirection;
 

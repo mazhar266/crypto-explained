@@ -21,5 +21,4 @@ http://cryptoexplained.tech
 ### Building
 
 1. Clone this repository
-2. Run mvn clean package from project root
-
+2. Run `mvn clean package` from project root
